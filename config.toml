@@ -1,7 +1,0 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "My hugo site"
-theme = "simple-style"
-
-# Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright notice"
