@@ -1,0 +1,24 @@
+{{ define "main" -}}
+<div>
+  <h1>{{ .Title }}</h1>
+</div>
+<div>
+  {{ if .Date -}}
+  <div>{{ .Date.Format "2006-01-02 15:04" }}</span>
+  {{ end -}}
+  {{ $taxo := "tags" -}}
+  {{ if .Param $taxo -}}
+  <div>
+    {{ range .Param $taxo -}}
+      {{ $name := . -}}
+      {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize)) -}}
+    <span><a href="{{ .Permalink }}">#{{ $name }}</a></span>
+      {{ end -}}
+    {{ end -}}
+  </div>
+  {{ end -}}
+</div>
+<div>
+  {{ .Content -}}
+</div>
+{{ end -}}
