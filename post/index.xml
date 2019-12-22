@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My hugo site</title>
-    <link>/post/</link>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-055-advanced/post/</link>
     <description>Recent content in Posts on My hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
     <lastBuildDate>Sun, 22 Dec 2019 18:46:02 +0200</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-055-advanced/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On Learning</title>
-      <link>/post/on_learning/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-055-advanced/post/on_learning/</link>
       <pubDate>Sun, 22 Dec 2019 18:46:02 +0200</pubDate>
       
-      <guid>/post/on_learning/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-055-advanced/post/on_learning/</guid>
       <description>learning 055 This course has thought me a bit about basics of hugo website generator and devops process with github Rest of the text is again randomly generated nonsense
 Old education him departure any arranging one prevailed. Their end whole might began her. Behaved the comfort another fifteen eat. Partiality had his themselves ask pianoforte increasing discovered. So mr delay at since place whole above miles. He to observe conduct at detract because.</description>
     </item>
     
     <item>
       <title>On this course</title>
-      <link>/post/on_course/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-055-advanced/post/on_course/</link>
       <pubDate>Sun, 22 Dec 2019 16:16:45 +0200</pubDate>
       
-      <guid>/post/on_course/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-055-advanced/post/on_course/</guid>
       <description>this course 055   this course hopefully teaches the basics of devops and a bit about continuous integration setup
   rest of this text is randomly generated nonsense
   Continual delighted as elsewhere am convinced unfeeling. Introduced stimulated attachment no by projection. To loud lady whom my mile sold four. Need miss all four case fine age tell. He families my pleasant speaking it bringing it thoughts. View busy dine oh in knew if even.</description>
