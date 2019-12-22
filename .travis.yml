@@ -5,8 +5,8 @@ install:
 script:
   - hugo
 deploy:
-  provider: script
-  script: deploy.sh
+  provider: pages
+  local_dir: "public"
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
