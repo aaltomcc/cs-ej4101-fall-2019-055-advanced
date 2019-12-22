@@ -8,7 +8,7 @@ Old education him departure any arranging one prevailed. Their end whole might b
 
 Previous text was created with [Random text generator](https://randomtextgenerator.com/)
 
-![alt text](/img/winter.jpg "An image")
+![alt text](img/winter.jpg "An image")
 Image copyright by me
 
 
